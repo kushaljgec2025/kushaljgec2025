@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)
+![MasterHead](https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png)
 <h1 align="center">Hi 👋, I'm  K U S H A L   G H O S H </h1>
 <h3 align="center">A passionate competitive programmer & newbie developer from JGEC (India)....</h3>
 <img align="right" alt="Coding" width="400" src="https://voxyard.com/assets/img/content/coding.gif"
