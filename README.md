@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/kushaljgec2025/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Kushal Ghosh" width="150" height="30" /></a> </p>
 
 
-- 🌱 I’m currently learning *DSA, HTML, CSS, JS, FLUTTER*
+- 🌱 I’m currently learning *DSA, HTML, CSS, JS, React.js , Raect Native , Firebase , Appwrite*
 
 - 📫 How to reach me *kg2530@it.jgec.ac.in*
 <h3 align="left">Languages and Tools:</h3>
